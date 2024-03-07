@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff; /* Cor de fundo suave */
+    color: #333; /* Cor do texto principal */
+    max-width: 800px; /* não usar */
+    margin: 0 auto;  /* não usar */
+    padding: 20px;  /* não usar */
+}
+
+.profile-picture {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%; /* Torna a imagem redonda */
+    margin: 20px 0;  /* não usar */
+}
+
+h1 {
+    color: #007bff; /* Cor do título */
+}
+
+h2 {
+    color: #ff6347; /* Cor dos subtítulos */
+}
+
+p {
+    line-height: 1.6; /* Espaçamento entre linhas */
+}
+
+ul, ol {
+    padding-left: 20px;
+}
+
+a {
+    color: #ff006a;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
